@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_make-it-rain  steel</name>
+   <tag></tag>
+   <elementGuidId>e5800f38-ca80-49bf-80c9-d56b49b36979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div[2]/div[30]/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>67e4692a-154a-445d-9779-e45cca3fe3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>make-it-rain | steel</value>
+      <webElementGuid>4df1873e-4a2e-42df-96f5-cc805e0bdf5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;steel&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>bfcea614-9aab-4422-bd41-38ba9d7a0f62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div[2]/div[30]/ul/a/li</value>
+      <webElementGuid>597398e4-82f9-41df-bbda-557fe7dd52f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='spin-out | steel'])[1]/following::li[1]</value>
+      <webElementGuid>5bfe9471-3636-4119-8a65-a753a6be7186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gigaton-hammer | steel'])[1]/following::li[2]</value>
+      <webElementGuid>a443fa4c-cd30-46fc-b7a7-c1c2e3a80f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tachyon-cutter | steel'])[1]/preceding::li[1]</value>
+      <webElementGuid>eaefa7cb-c699-4b4f-a24f-8e9690878f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 1.'])[1]/preceding::li[2]</value>
+      <webElementGuid>88e364f3-ad79-4b36-a328-d7bbd93f5f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='make-it-rain | steel']/parent::*</value>
+      <webElementGuid>964d424a-69f3-4f27-b451-e87abfb8cf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[30]/ul/a/li</value>
+      <webElementGuid>b784899f-7d90-4481-a36f-474bb922d523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'make-it-rain | steel' or . = 'make-it-rain | steel')]</value>
+      <webElementGuid>f773b7a4-d2d8-4242-8839-5a6f8896d5ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

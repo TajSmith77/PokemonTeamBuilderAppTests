@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter moves by power</description>
+   <name>PowerFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>44189afd-84a6-475a-a766-b258bb826d7b</testCaseGuid>
+</TestCaseEntity>
