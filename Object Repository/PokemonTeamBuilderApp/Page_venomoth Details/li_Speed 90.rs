@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Speed 90</name>
+   <tag></tag>
+   <elementGuidId>201643db-a2bc-4c9c-a2e6-3557d6edc278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul[2]/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2d77cf0a-3bbf-4280-9d7d-6ab8700d7659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Speed: 90</value>
+      <webElementGuid>6608dc0a-4d8d-44d5-a41a-effa65b17200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardpoison&quot;]/ul[2]/li[6]</value>
+      <webElementGuid>9dcf4a7b-fa63-47bb-8216-f9b4a9e0a1c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul[2]/li[6]</value>
+      <webElementGuid>efafe454-1f8c-4f63-9076-267e5dd499d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Defense:'])[1]/following::li[1]</value>
+      <webElementGuid>f00e74e5-8e12-4e8a-91a2-37a8d511c4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Attack:'])[1]/following::li[2]</value>
+      <webElementGuid>4105cca4-3f4b-4c3b-8b4a-6fab48efc255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moves:'])[1]/preceding::li[1]</value>
+      <webElementGuid>e20041bf-f452-4d30-a428-e7f2b1572b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]</value>
+      <webElementGuid>fa342297-50bf-4a36-811a-b314d6cc4158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Speed: 90' or . = 'Speed: 90')]</value>
+      <webElementGuid>7c48843d-509c-4f87-9880-83f9d828eb27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

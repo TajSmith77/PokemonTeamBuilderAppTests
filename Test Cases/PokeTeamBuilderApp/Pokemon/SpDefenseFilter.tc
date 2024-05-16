@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FIlter by Special Defense</description>
+   <name>SpDefenseFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>6d4704ea-ed8e-4551-aa2c-df8abedfe030</testCaseGuid>
+</TestCaseEntity>

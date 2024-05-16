@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Username KatalonTestUserEdited</name>
+   <tag></tag>
+   <elementGuidId>5a988ff6-9584-4044-a74e-43b8a3d01ce3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>56d21a42-56cb-427d-ba8b-48d8f89c05d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username: KatalonTestUserEdited</value>
+      <webElementGuid>c624836b-17cc-485d-8d7a-039cc14bc948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>2bbe9013-ce2d-46b6-8cc0-625cbcc4c7d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul/li[2]</value>
+      <webElementGuid>03a159cf-7f8f-458e-90f1-ba6457eb3f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name: KatalonEdited, TestEdited'])[1]/following::li[1]</value>
+      <webElementGuid>e5ab7d74-0662-42f1-beec-46a9a6085f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/preceding::li[1]</value>
+      <webElementGuid>7cebffa4-a208-431e-8e71-3dc0a29b186d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Profile'])[1]/preceding::li[1]</value>
+      <webElementGuid>1e7ff391-7cce-4dce-8242-a178c1b481e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username: KatalonTestUserEdited']/parent::*</value>
+      <webElementGuid>56ad03dd-d2a1-4593-80fb-a6bca7976d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>b9cc21f7-35eb-45a5-b50c-599eb24da843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Username: KatalonTestUserEdited' or . = 'Username: KatalonTestUserEdited')]</value>
+      <webElementGuid>717ff574-c87c-4755-9969-08693d7fe1f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

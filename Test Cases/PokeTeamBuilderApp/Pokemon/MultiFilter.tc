@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing a combination of multiple filters</description>
+   <name>MultiFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>749d0561-2a95-4d85-a403-ec1385e88460</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_3  venusaur  grass, poison</name>
+   <tag></tag>
+   <elementGuidId>ff2d1acc-08fa-4dd7-a30a-6acf4d3d53e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/div/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>100f4940-7f4e-40d9-b596-1051e891c22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#3 | venusaur | grass, poison</value>
+      <webElementGuid>114f9b2b-58c0-41a4-94be-3c1447264276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;grass&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>b294984d-9298-4f78-834c-5960d4015357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/div/ul/a/li</value>
+      <webElementGuid>45102a67-56a7-466c-a670-c2a4d795a60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::li[1]</value>
+      <webElementGuid>4e72c4cd-4321-4a65-898a-98ca96d5e569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Filters'])[1]/following::li[1]</value>
+      <webElementGuid>f9cd9f15-8615-4e65-9640-7cb3f9a9da5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 1.'])[1]/preceding::li[1]</value>
+      <webElementGuid>31298393-656d-4d43-a266-85ea83c23945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::li[1]</value>
+      <webElementGuid>e1d574e4-d832-4ecc-b0d3-1888174c106e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#3 | venusaur | grass, poison']/parent::*</value>
+      <webElementGuid>d3d47262-2e36-4c78-92f4-2b83dd512916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>50a4e33c-a5d8-4cc4-9027-c3a67b0e78c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '#3 | venusaur | grass, poison' or . = '#3 | venusaur | grass, poison')]</value>
+      <webElementGuid>f4744db7-c7eb-432b-8e2d-3868b721602b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

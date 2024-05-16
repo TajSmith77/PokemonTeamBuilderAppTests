@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filtering Pokemon by Ability</description>
+   <name>AbilityFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>049aa0c1-dbf8-4f71-9a77-25d36b1ff6db</testCaseGuid>
+</TestCaseEntity>

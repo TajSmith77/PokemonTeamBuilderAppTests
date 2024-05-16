@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter by Defense</description>
+   <name>DefenseFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>aa1d94c5-500e-4e06-88fb-6b59e680d800</testCaseGuid>
+</TestCaseEntity>

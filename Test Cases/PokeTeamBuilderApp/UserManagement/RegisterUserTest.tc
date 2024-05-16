@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test of logging in functionality</description>
+   <name>RegisterUserTest</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>c58a9c5f-cef6-4f58-874f-308bac72d3eb</testCaseGuid>
+</TestCaseEntity>

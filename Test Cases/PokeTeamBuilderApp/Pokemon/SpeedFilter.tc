@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter by Speed</description>
+   <name>SpeedFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>a2e2f3f6-2335-4cbd-89c7-1c15c417291f</testCaseGuid>
+</TestCaseEntity>

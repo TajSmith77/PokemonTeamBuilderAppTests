@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Defense 95</name>
+   <tag></tag>
+   <elementGuidId>258e8713-2f5f-4ed5-a4d9-4edc450c50a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul[2]/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(2) > li:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9b1f4c56-1133-4dd0-8e49-cc558557ab20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Defense: 95</value>
+      <webElementGuid>babfe109-268b-428a-be4f-6563fceab138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardelectric&quot;]/ul[2]/li[3]</value>
+      <webElementGuid>d4e9a7b0-d98d-4a24-81d5-221b2dbfd986</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul[2]/li[3]</value>
+      <webElementGuid>db056d2f-74be-4710-a1cc-4f3dbe88f0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attack:'])[1]/following::li[1]</value>
+      <webElementGuid>9f4eb161-4315-49f9-a127-3485192c1df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP:'])[1]/following::li[2]</value>
+      <webElementGuid>8b0891eb-62e3-46a0-a72b-dba78ab13246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Attack:'])[1]/preceding::li[1]</value>
+      <webElementGuid>61e971af-4827-4e82-9fb1-2075e7a6e618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='95']/parent::*</value>
+      <webElementGuid>65ce544f-1571-4216-8756-c60e435eacdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]</value>
+      <webElementGuid>01f93331-b7a9-41b9-904d-2c62c4c1d06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Defense: 95' or . = 'Defense: 95')]</value>
+      <webElementGuid>e71b480e-824e-4a1b-ae11-836dc5a16212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

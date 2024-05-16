@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filtering Pokemon by type</description>
+   <name>TypeFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>e54c1529-af96-4acc-96d4-7ba12bb7d451</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_HP 90</name>
+   <tag></tag>
+   <elementGuidId>e9997b20-84ca-41e8-9868-d0850c308b90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul[2]/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(2) > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0e2a937f-2355-4558-8b60-13817274b7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP: 90</value>
+      <webElementGuid>20cfe9fb-7f63-4b4a-a905-65716e7cc28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardfire&quot;]/ul[2]/li[1]</value>
+      <webElementGuid>3d6b8afe-695c-4218-bf5e-a4d4f8ec842e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul[2]/li</value>
+      <webElementGuid>9ea0d441-9ec2-4998-8075-41f2c0f5ecac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stats:'])[1]/following::li[1]</value>
+      <webElementGuid>5e15c25a-5f62-49f6-b8d6-4396bac01f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='justified'])[1]/following::li[1]</value>
+      <webElementGuid>62697b7a-8bd4-4466-bca0-fe5a4c8792e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attack:'])[1]/preceding::li[1]</value>
+      <webElementGuid>0366dbdd-7f00-44ed-a6ac-96ca0d38042e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='90']/parent::*</value>
+      <webElementGuid>569d969a-210f-4850-80b8-f12fd8aa1b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li</value>
+      <webElementGuid>686516c4-613e-4650-b076-d161e8286394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'HP: 90' or . = 'HP: 90')]</value>
+      <webElementGuid>d8fa1e1b-bab1-47a7-916b-dcf18a67d551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

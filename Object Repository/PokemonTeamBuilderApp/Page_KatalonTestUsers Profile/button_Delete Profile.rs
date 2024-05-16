@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete Profile</name>
+   <tag></tag>
+   <elementGuidId>687c83b6-2375-434d-b332-220eb470af64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#delete_profile_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='delete_profile_button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efd3d888-1d82-4079-ba85-5a7b55a8ff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>delete_profile_button</value>
+      <webElementGuid>0f362153-5076-4971-9748-71b0ebb5209d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Profile</value>
+      <webElementGuid>42cad368-e59c-4f76-96af-df47de359fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delete_profile_button&quot;)</value>
+      <webElementGuid>b4e47820-21ab-4e46-aff0-85e56394b4cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='delete_profile_button']</value>
+      <webElementGuid>306e0e0b-fe7c-4d9f-9d8c-9fb71f787136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/a[2]/button</value>
+      <webElementGuid>249cf18d-2217-4aa3-883d-884cf7cfba2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/following::button[1]</value>
+      <webElementGuid>579b930b-2b31-4271-8e24-f77fd8235a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username: KatalonTestUser'])[1]/following::button[2]</value>
+      <webElementGuid>ee0fd625-71ee-4931-b795-470f8dddd39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ecd7462-be6f-4bc6-bb04-fb87260f0b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Profile']/parent::*</value>
+      <webElementGuid>869134ba-1d53-4a73-bc7d-89a135a8f99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>b663f5c9-e1fc-44ef-ba74-e3f931cad5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'delete_profile_button' and (text() = 'Delete Profile' or . = 'Delete Profile')]</value>
+      <webElementGuid>e05deb37-3901-43c2-96e2-132e5db883dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

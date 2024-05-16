@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing logging out a user</description>
+   <name>LogoutUserTest</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>67098978-15c4-4e84-8942-e0251fee8678</testCaseGuid>
+</TestCaseEntity>

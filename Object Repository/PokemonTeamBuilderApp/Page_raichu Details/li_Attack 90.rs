@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Attack 90</name>
+   <tag></tag>
+   <elementGuidId>279c7213-9294-49ae-8caf-6378516eab86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul[2]/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(2) > li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e7cbcb2d-5d61-4d9e-9408-cb4e3648f17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Attack: 90</value>
+      <webElementGuid>5c9542d0-8e39-48a7-a21f-f4d5529b97ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardelectric&quot;]/ul[2]/li[2]</value>
+      <webElementGuid>3a631888-6682-4135-81f4-3777e82a8441</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul[2]/li[2]</value>
+      <webElementGuid>c46ba465-e8aa-4719-ae67-bb62acb4ce2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP:'])[1]/following::li[1]</value>
+      <webElementGuid>79398539-df6d-4705-88bb-b22cc60b22a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stats:'])[1]/following::li[2]</value>
+      <webElementGuid>0c3a2928-1e0d-4655-96e8-311b26d6f4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Defense:'])[1]/preceding::li[1]</value>
+      <webElementGuid>f9bcd289-88cf-4be8-880f-e3176afedaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='90']/parent::*</value>
+      <webElementGuid>747bc54a-9abf-4c30-a44c-f98b3338b4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]</value>
+      <webElementGuid>65daecdd-bf3c-4f81-9183-ab27fb65a2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Attack: 90' or . = 'Attack: 90')]</value>
+      <webElementGuid>f26915d9-c491-474f-8c33-e0ecec09aa5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

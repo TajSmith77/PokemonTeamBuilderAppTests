@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing Per page filter</description>
+   <name>PerPageFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>baf9bb6e-021b-4d29-ade1-a9820de6121f</testCaseGuid>
+</TestCaseEntity>

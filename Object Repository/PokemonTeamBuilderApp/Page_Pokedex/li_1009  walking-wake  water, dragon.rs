@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1009  walking-wake  water, dragon</name>
+   <tag></tag>
+   <elementGuidId>23501ed8-d437-4acd-83ee-0bc84337f635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/div[4]/ul/a/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>84f426b4-6700-4357-96a2-ad97b4718827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#1009 | walking-wake | water, dragon</value>
+      <webElementGuid>aecb3f71-e605-4e86-b4e6-ab2bc4cf93fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;water&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>425de5c8-e567-4b81-bedf-8fdba1cc6a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/div[4]/ul/a/li</value>
+      <webElementGuid>184a7c66-1b19-46a5-8d28-4ebb275b17c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#991 | iron-bundle | ice, water'])[1]/following::li[1]</value>
+      <webElementGuid>aeced667-6f39-483c-a11d-5982dfc3490b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#978 | tatsugiri | dragon, water'])[1]/following::li[2]</value>
+      <webElementGuid>7bf8604f-bfdb-4b49-8d2a-9c6232995d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='« first'])[1]/preceding::li[1]</value>
+      <webElementGuid>c53e976b-fd90-4331-9b28-5eca88f07dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='previous'])[1]/preceding::li[1]</value>
+      <webElementGuid>708a20ab-1714-4613-9624-3d3d3a88adc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#1009 | walking-wake | water, dragon']/parent::*</value>
+      <webElementGuid>47b801bd-2422-42c1-a0b9-f74599a8c1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/a/li</value>
+      <webElementGuid>5a06c67d-4b91-4cba-a093-053141d7b0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '#1009 | walking-wake | water, dragon' or . = '#1009 | walking-wake | water, dragon')]</value>
+      <webElementGuid>079dda42-0317-4696-acd1-729baae9f9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

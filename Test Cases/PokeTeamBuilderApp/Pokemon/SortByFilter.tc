@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sort by name and pokedex number test</description>
+   <name>SortByFilter</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>ac1b2c97-1d16-45dd-846f-2e8a01dbc70c</testCaseGuid>
+</TestCaseEntity>

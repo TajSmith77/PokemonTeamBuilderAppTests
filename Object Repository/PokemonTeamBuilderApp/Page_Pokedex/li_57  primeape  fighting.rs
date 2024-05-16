@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_57  primeape  fighting</name>
+   <tag></tag>
+   <elementGuidId>c8557270-99c6-412e-80c8-928788aab1ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/div[8]/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5ed85fe1-55b5-4c92-90c8-2d3192a220c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#57 | primeape | fighting</value>
+      <webElementGuid>79fe1919-89f3-412c-8ce8-dd5a03aef1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;fighting&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>b09b09b1-3b9e-44c0-917b-e5e9ecccf740</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/div[8]/ul/a/li</value>
+      <webElementGuid>5a205865-b7cc-463e-9fc6-aaf107075e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#56 | mankey | fighting'])[1]/following::li[1]</value>
+      <webElementGuid>4d81ffb5-b0ed-4c5b-b85e-6c9b0347f44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#45 | vileplume | grass, poison'])[1]/following::li[2]</value>
+      <webElementGuid>5e9e0c8d-0db4-4e03-a951-8946eb21f9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#62 | poliwrath | water, fighting'])[1]/preceding::li[1]</value>
+      <webElementGuid>2e5d6da5-aa29-44eb-87b0-1a1d8d8a92e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#63 | abra | psychic'])[1]/preceding::li[2]</value>
+      <webElementGuid>03d77dc6-7e00-4b59-ba61-c0278af4b6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#57 | primeape | fighting']/parent::*</value>
+      <webElementGuid>0ae9ba2b-5d1e-4ce3-85b0-7820f8c06288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/ul/a/li</value>
+      <webElementGuid>aa82cae9-84ec-4a36-bbdf-3788caef0a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '#57 | primeape | fighting' or . = '#57 | primeape | fighting')]</value>
+      <webElementGuid>9d6fb875-a1f8-46b3-b27d-fbe2c2913a62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

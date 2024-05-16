@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Profile</name>
+   <tag></tag>
+   <elementGuidId>e3734ab1-bfcb-4200-8f6a-6c9e8882c87e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#edit_profile_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='edit_profile_button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>18662336-32c6-45bf-bfaf-7e68d78db640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit_profile_button</value>
+      <webElementGuid>5a1907d2-f198-49ac-adf2-8b2f26df7e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Profile</value>
+      <webElementGuid>e6ac307d-db25-4dfc-8781-ecfe2da04498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit_profile_button&quot;)</value>
+      <webElementGuid>1aa79e3e-55f2-4538-b3c2-39222eaf73ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='edit_profile_button']</value>
+      <webElementGuid>7d908227-46e2-473a-a227-f616dfccf2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/a/button</value>
+      <webElementGuid>40eeff8e-39c6-4f90-b34b-ad81330a6896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username: KatalonTestUserEdited'])[1]/following::button[1]</value>
+      <webElementGuid>ca89c877-f07a-4fd9-b788-33ee5caadd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name: KatalonEdited, TestEdited'])[1]/following::button[1]</value>
+      <webElementGuid>7325f94a-489c-4ce1-83c0-80372acb92a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Profile'])[1]/preceding::button[1]</value>
+      <webElementGuid>a7e2ffa6-67a0-42af-be38-5342ed91932f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::button[2]</value>
+      <webElementGuid>8e4fa95b-e4bd-4d9a-b63b-2eeb9e587bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Profile']/parent::*</value>
+      <webElementGuid>6caceff8-63da-4806-819f-bcb98f1aff7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>205750c9-f1fa-4f5d-ab8e-e140f7b53cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'edit_profile_button' and (text() = 'Edit Profile' or . = 'Edit Profile')]</value>
+      <webElementGuid>1f191398-1b2a-4dff-b4fd-e6d98159a076</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
