@@ -44,8 +44,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/PokemonTeamBuilderApp/
 
 WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_KataTestTeamEdited Details/button_Edit'))
 
-WebUI.navigateToUrl('http://pokemonteambuilder-env-2.eba-dimafhn3.us-east-2.elasticbeanstalk.com/teams/details/54/update_team/')
-
 WebUI.setText(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Edit Team/input_Team Name_name'), 'KataTestTeam')
 
 WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Edit Team/button_Submit'))
