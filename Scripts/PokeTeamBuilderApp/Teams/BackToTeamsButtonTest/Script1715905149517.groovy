@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Pokemon
 
 WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Teams/li_KataTestTeam'))
 
-WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_KataTestTeamEdited Details/button_Back to teams'))
+WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_KataTestTeam Details/button_Back to teams'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Teams/h1_KataTeamss Teams'), 'KataTeams\'s Teams')
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Back to teams</name>
    <tag></tag>
-   <elementGuidId>3e336907-0f2f-4c95-bfa3-c7bc8d749142</elementGuidId>
+   <elementGuidId>6122a6a2-07f5-48f9-bdcb-5def8fca651c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8209eabf-46cb-4bc7-8718-9af403da8600</webElementGuid>
+      <webElementGuid>5b865c23-cfba-464f-bf13-65b2202cd6a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back to teams</value>
-      <webElementGuid>c9eb864b-3bd8-4fd0-9800-a4e337057b93</webElementGuid>
+      <webElementGuid>fa5d3030-0f62-4158-926e-ee35c0f2d693</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-wrap&quot;)/a[1]/button[1]</value>
-      <webElementGuid>a7c065e3-46aa-4f79-9d10-821477417e60</webElementGuid>
+      <webElementGuid>3ab3cc06-23e3-4804-9dac-ecfb3e27ee1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,23 +47,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrap']/a/button</value>
-      <webElementGuid>f7e34c17-30d6-4504-8458-73cc06021231</webElementGuid>
+      <webElementGuid>b9ec9550-805c-40f3-990d-92f92e07641c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='swords-dance'])[12]/following::button[1]</value>
-      <webElementGuid>84162926-ec21-4807-b5a4-5114d9b7b846</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='razor-wind'])[8]/following::button[1]</value>
+      <webElementGuid>8d4f7087-a64a-4b2c-8fe6-e4f6690e0984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='swords-dance'])[11]/following::button[1]</value>
-      <webElementGuid>499a85a8-fa0c-4f96-9210-5f6d3c744879</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='razor-wind'])[7]/following::button[1]</value>
+      <webElementGuid>1badce78-b718-4e2e-a81a-297fc9731057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to community'])[1]/preceding::button[1]</value>
-      <webElementGuid>62ea0f6f-1efe-44bb-8f09-154595332d80</webElementGuid>
+      <webElementGuid>ba5e586f-6643-4d32-a138-dadcb426747e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::button[2]</value>
-      <webElementGuid>ed6cbf37-a730-4669-b4a5-adb8710452da</webElementGuid>
+      <webElementGuid>691818d1-59a4-4783-96bc-21c8675f1097</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Back to teams']/parent::*</value>
-      <webElementGuid>442d7023-ecf4-4a76-a8a3-d9bfad34462f</webElementGuid>
+      <webElementGuid>acda4dde-e186-4c7e-a3be-7953d8e1a211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a/button</value>
-      <webElementGuid>284b6cf0-12c5-42f9-bdc1-79e2fd958e37</webElementGuid>
+      <webElementGuid>0822c9e4-c98f-49f1-a70c-014b6820b61f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Back to teams' or . = 'Back to teams')]</value>
-      <webElementGuid>0deec7a0-e564-441e-bab4-322e1061e550</webElementGuid>
+      <webElementGuid>57dd5961-3168-43da-963a-ee2e4e662484</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

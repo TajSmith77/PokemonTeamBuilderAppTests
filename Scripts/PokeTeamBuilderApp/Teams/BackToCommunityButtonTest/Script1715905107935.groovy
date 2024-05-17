@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Pokemon
 
 WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Teams/li_KataTestTeam'))
 
-WebUI.click(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_KataTestTeamEdited Details/button_Back to community'))
+WebUI.click(findTestObject('PokemonTeamBuilderApp/Page_KataTestTeam Details/button_Back to community'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/PokemonTeamBuilderApp/Page_Community/h1_Community Teams'), 'Community Teams')
 
