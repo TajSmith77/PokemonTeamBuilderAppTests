@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ArachnoGang       By NotSpiderman</name>
+   <tag></tag>
+   <elementGuidId>af4e8892-609d-463f-8784-778497797616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/ul/a[4]/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(4) > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9908886f-97f5-4078-ae5a-4a2e2adc517f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ArachnoGang       By: NotSpiderman </value>
+      <webElementGuid>0ced4b2d-1b2e-4aac-b4ad-6b6a873041c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/ul[1]/a[4]/li[1]</value>
+      <webElementGuid>79df7aec-899d-4778-a912-c8c4c7f15929</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/ul/a[4]/li</value>
+      <webElementGuid>fe01ef0f-0204-4f98-bbc5-11712963843e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let it Rain By: RobinHood'])[1]/following::li[1]</value>
+      <webElementGuid>d7e8a250-bc3a-497f-9d1e-27e3bd71d815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starter By: Tjmaxx'])[1]/following::li[2]</value>
+      <webElementGuid>ab8d832b-2e0f-4930-bdc5-687556480647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon By: tajsmith'])[1]/preceding::li[1]</value>
+      <webElementGuid>bda3fced-c856-4a45-92ff-ae04828b5a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalon By: tajsmith'])[2]/preceding::li[2]</value>
+      <webElementGuid>5f5efb33-7160-4821-ba54-5d4658e89477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ArachnoGang']/parent::*</value>
+      <webElementGuid>7eda8759-399e-4efc-bbad-da684c5889cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li</value>
+      <webElementGuid>c69e3766-770c-4295-866d-3e187f0c5fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ArachnoGang       By: NotSpiderman ' or . = 'ArachnoGang       By: NotSpiderman ')]</value>
+      <webElementGuid>f2839765-905d-4bc4-b08e-12a2ff9ffa40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1002  chien-pao  dark, ice</name>
+   <tag></tag>
+   <elementGuidId>add136ae-8c0b-4ccf-af15-43c339022f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div/div[2]/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f90ec91c-a91f-4f52-9f06-8d677249d98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#1002 | chien-pao | dark, ice</value>
+      <webElementGuid>2bb7fe08-6ecc-43cd-ae64-3204b31fa42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;dark&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>5a9720f0-3c3b-4d0f-a8ef-bd8fb820e36b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div/div[2]/ul/a/li</value>
+      <webElementGuid>432658aa-42c3-46b7-b271-37b97a99e95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1001 | wo-chien | dark, grass'])[1]/following::li[1]</value>
+      <webElementGuid>aa885c55-6004-48ac-81b5-719695132e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::li[2]</value>
+      <webElementGuid>4be8483a-e739-4bd0-8a99-1d503adac790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1003 | ting-lu | dark, ground'])[1]/preceding::li[1]</value>
+      <webElementGuid>d20e855e-1ef2-4961-98b6-e27ab2c520c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1004 | chi-yu | dark, fire'])[1]/preceding::li[2]</value>
+      <webElementGuid>2573d64f-f610-404b-aef8-ab985aa9cbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#1002 | chien-pao | dark, ice']/parent::*</value>
+      <webElementGuid>1b53a2a7-6bae-41ac-8269-9ae1282ef6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/a/li</value>
+      <webElementGuid>eb829fe2-541b-476b-8da6-e6c0938e04a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '#1002 | chien-pao | dark, ice' or . = '#1002 | chien-pao | dark, ice')]</value>
+      <webElementGuid>df9f6aa6-fcf0-491e-90b7-4b65cf0dd87c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

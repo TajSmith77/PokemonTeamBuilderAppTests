@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back to community</name>
+   <tag></tag>
+   <elementGuidId>d5a9cb1e-e3f7-4b7c-bfb3-9e19a92aa597</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/a[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#content-wrap > a:nth-of-type(2) > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da420696-b5e0-47ec-9b2b-684a2a2b1991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to community</value>
+      <webElementGuid>a39a15fb-a045-4bc1-958c-7b152e01a5db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/a[2]/button[1]</value>
+      <webElementGuid>c2c085d4-a1a9-44ee-bb7f-a388ffc785a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/a[2]/button</value>
+      <webElementGuid>632f1ffd-dc16-44ef-b51e-554baffedfb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to teams'])[1]/following::button[1]</value>
+      <webElementGuid>eadbc467-e235-4840-9a84-a27740b1e9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shadow-claw'])[1]/following::button[2]</value>
+      <webElementGuid>49a4b49c-7677-4dce-988a-e3cf4f24c396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>bf45d09f-ffd5-4227-90d0-a84778363954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to community']/parent::*</value>
+      <webElementGuid>705bf8cf-e81a-4b73-a67c-7292ae643d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>480125ba-3004-4b04-9897-c7d82459671c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back to community' or . = 'Back to community')]</value>
+      <webElementGuid>bab56a80-123c-4e65-a80d-51bdb558bb6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f678d531-5ad0-4ce2-a347-1b0123894791</webElementGuid>
+      <webElementGuid>5a87a5a5-6b02-4bde-ac71-ee3afd8b2e22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/teams/</value>
-      <webElementGuid>e687f06c-19c7-400c-a912-0a864026ce77</webElementGuid>
+      <webElementGuid>cbf3f1ec-df33-449b-9a74-658d3d8d5b94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>TEAMS</value>
-      <webElementGuid>019d2942-6609-473c-be7f-05c772a5b08d</webElementGuid>
+      <webElementGuid>8771e4a6-6c1f-4c7d-a29d-3c4f1ff0893f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-container&quot;)/nav[@class=&quot;topnav&quot;]/a[4]</value>
-      <webElementGuid>41fcedcf-acae-4183-b157-51e4070a9972</webElementGuid>
+      <webElementGuid>2d417b64-e8be-4900-a7ab-810d27291aa3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-container']/nav/a[4]</value>
-      <webElementGuid>f59216bd-fd01-4c3e-84bb-9581116e8144</webElementGuid>
+      <webElementGuid>c3e538f7-1c9d-4e01-8816-457a4402f7bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'TEAMS')]</value>
-      <webElementGuid>5e670000-9b56-4f5d-89ea-9dfb1024c27c</webElementGuid>
+      <webElementGuid>0a970dc5-3c86-44c5-ad86-4d4cfe84a1da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MOVES'])[1]/following::a[1]</value>
-      <webElementGuid>f4bdb1ee-0996-4714-b323-34413c0a1434</webElementGuid>
+      <webElementGuid>d9f89e90-59f5-48a2-b431-9c13a1e7709e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POKEMON'])[1]/following::a[2]</value>
-      <webElementGuid>d8b18f52-5ca4-46ec-8c34-3dfdad5de65f</webElementGuid>
+      <webElementGuid>d8929fd4-f5cd-4d06-998f-2ccea5c2d453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMUNITY'])[1]/preceding::a[1]</value>
-      <webElementGuid>dfe999ee-6f70-4e8c-b719-b314c5158165</webElementGuid>
+      <webElementGuid>99f130cd-c883-4528-9b90-1712c4779efd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[1]/preceding::a[2]</value>
-      <webElementGuid>a21d36af-1bbf-4e51-b49f-b7c01a4b40fa</webElementGuid>
+      <webElementGuid>5e1ef37a-e077-4959-a366-85067c5342a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='TEAMS']/parent::*</value>
-      <webElementGuid>13ea1053-1787-439c-8bd2-510d53576346</webElementGuid>
+      <webElementGuid>efafc5b2-a5c7-4d9c-a89c-c427bc67cbc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/teams/')]</value>
-      <webElementGuid>5a3ca3da-d30e-4fd0-86ca-406d1b8cb6fa</webElementGuid>
+      <webElementGuid>5c415406-9bbc-4e36-abf5-9ea96797cc2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]</value>
-      <webElementGuid>0082a943-75a3-414e-aa19-670cc5cbc446</webElementGuid>
+      <webElementGuid>144e35e2-e479-4300-bf4e-dfb72712097b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/teams/' and (text() = 'TEAMS' or . = 'TEAMS')]</value>
-      <webElementGuid>a041a27b-af32-4fee-a4a2-4529bb2708b9</webElementGuid>
+      <webElementGuid>268ad3b4-1fc7-4443-a973-97a81529ea6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

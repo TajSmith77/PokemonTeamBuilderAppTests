@@ -32,4 +32,11 @@
       <testCaseId>Test Cases/PokeTeamBuilderApp/Moves/TypeFilter</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>3e526e12-ab31-44b2-9f02-04331e023303</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PokeTeamBuilderApp/Moves/BackToMovesButtonTest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

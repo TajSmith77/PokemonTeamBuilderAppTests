@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the Community Page</description>
+   <name>CommunityTest</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>bc3e08c6-8175-4ecf-aaea-515320e0bd04</testCaseGuid>
+</TestCaseEntity>

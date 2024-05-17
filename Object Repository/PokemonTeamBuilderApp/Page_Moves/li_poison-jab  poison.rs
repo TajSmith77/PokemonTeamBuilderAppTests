@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_poison-jab  poison</name>
+   <tag></tag>
+   <elementGuidId>7dba430c-223b-4a97-8b8c-0f7b7ece4b23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap']/div[2]/div[43]/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7f1715c8-7efc-4982-af95-2f3b45d8af1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>poison-jab | poison</value>
+      <webElementGuid>40d19134-8974-46ba-95c6-43e8d9ee0179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap&quot;)/div[@class=&quot;mycardall&quot;]/div[@class=&quot;poison&quot;]/ul[1]/a[1]/li[1]</value>
+      <webElementGuid>1604810f-0964-4ebf-af79-5e263b8960ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/div[2]/div[43]/ul/a/li</value>
+      <webElementGuid>1e1e8c18-e653-47c7-a9f9-740ff98f3630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='frenzy-plant | grass'])[1]/following::li[1]</value>
+      <webElementGuid>5408ea82-ac23-4374-88ed-b8c696895717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='block | normal'])[1]/following::li[2]</value>
+      <webElementGuid>68c4a87f-f1fd-4bed-8191-9ee5e693a277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='earth-power | ground'])[1]/preceding::li[1]</value>
+      <webElementGuid>9154b6a4-ca53-4337-9601-e208f9d8347f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='giga-impact | normal'])[1]/preceding::li[2]</value>
+      <webElementGuid>78d71701-1f25-4a67-9003-5d984d1f8fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='poison-jab | poison']/parent::*</value>
+      <webElementGuid>bedbc43c-4754-4708-aea2-bd413d479a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[43]/ul/a/li</value>
+      <webElementGuid>a83a87b9-9bdc-465d-9642-9a1bd6390710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'poison-jab | poison' or . = 'poison-jab | poison')]</value>
+      <webElementGuid>09090212-fac7-4dbf-bbd3-1280cb54b4d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

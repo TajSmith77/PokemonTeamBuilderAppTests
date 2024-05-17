@@ -109,4 +109,11 @@
       <testCaseId>Test Cases/PokeTeamBuilderApp/Pokemon/MultiFilter</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>818e82a2-1132-40cf-b706-09ba558d206f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PokeTeamBuilderApp/Pokemon/BackToPokemonButtonTest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

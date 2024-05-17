@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing create team functionality</description>
+   <name>CreateTeamTest</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>13bc6fd3-f5bf-407e-85ae-68be248886c8</testCaseGuid>
+</TestCaseEntity>

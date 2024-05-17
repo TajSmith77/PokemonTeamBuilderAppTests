@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back to all moves</name>
+   <tag></tag>
+   <elementGuidId>a703b1a2-f20a-47da-bbbd-74ff51e61313</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='back_to_moves_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#back_to_moves_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f0e4120-124c-419d-842e-b5f14ab048d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>back_to_moves_button</value>
+      <webElementGuid>434a9f8b-115e-4abf-84df-0992a955a880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to all moves</value>
+      <webElementGuid>b7349131-7ee5-419c-94a6-c0bbf854b3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;back_to_moves_button&quot;)</value>
+      <webElementGuid>5003dad2-4930-4fd9-a956-3cbbf1a41aa2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='back_to_moves_button']</value>
+      <webElementGuid>848272e4-fe2c-4a78-ab8f-1f7bad9a77be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap']/a/button</value>
+      <webElementGuid>23ae7df7-a19b-4574-a986-d9165b406868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accuracy:'])[1]/following::button[1]</value>
+      <webElementGuid>3239bbeb-9b2f-4c6b-b6ef-dacbcccec1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PP:'])[1]/following::button[1]</value>
+      <webElementGuid>09f9a1e1-5fb3-41af-b836-a77ff25093d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>2187eaec-df16-4c9d-b8af-899d1870ef32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to all moves']/parent::*</value>
+      <webElementGuid>010f501f-90fc-42ee-8fd6-3b21f195909b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>a36098a1-2f59-4074-a2ba-f889912be529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'back_to_moves_button' and (text() = 'Back to all moves' or . = 'Back to all moves')]</value>
+      <webElementGuid>9d7b7739-5d6f-4ea3-ad1f-14042bad4385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

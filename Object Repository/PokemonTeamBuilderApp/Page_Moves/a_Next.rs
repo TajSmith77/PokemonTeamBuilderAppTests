@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d83298b5-7255-4e5f-924a-21e68971a59f</webElementGuid>
+      <webElementGuid>c6381916-cde4-4c3f-8846-aa8459b48d1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,8 +33,8 @@
       <value>?page=2
                 
                 
-                &amp;min_damage=120</value>
-      <webElementGuid>48bac867-ba65-4e1c-b3d2-e2bc7b001e05</webElementGuid>
+                </value>
+      <webElementGuid>6f056ca3-1450-4d4b-95a1-4edbd2e36f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>138a6217-2397-45c9-9bbf-6e78e9139fca</webElementGuid>
+      <webElementGuid>eab22140-6367-406f-a57e-982efa29a778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-wrap&quot;)/div[@class=&quot;pagination&quot;]/span[@class=&quot;step-links&quot;]/a[1]</value>
-      <webElementGuid>9d72d550-d851-41a6-b638-cf125a57cbb2</webElementGuid>
+      <webElementGuid>bfd4bf02-7101-4fcc-9d2e-d162b5a68f99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrap']/div[3]/span/a</value>
-      <webElementGuid>4aadcdb8-498f-418b-94a3-6bdbda331477</webElementGuid>
+      <webElementGuid>adce0b7e-9cba-41cd-bc56-88293804586e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,77 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Next')]</value>
-      <webElementGuid>2de0507b-cf2d-4c17-aeb5-791264a0d040</webElementGuid>
+      <webElementGuid>9792c392-4db0-4a2e-ba90-db0d49e7e2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 16.'])[1]/following::a[1]</value>
+      <webElementGuid>6ff599df-fbb0-4d33-8a4a-f39cb3e4f8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='return | normal'])[1]/following::a[1]</value>
+      <webElementGuid>7abef221-3552-44b3-ab42-4efd52827bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/preceding::a[1]</value>
+      <webElementGuid>95fa3560-e3e7-44b8-8c0d-51b25002efc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::a[2]</value>
+      <webElementGuid>3d718606-c93f-4f08-b918-edc1a9b32687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>15c46d89-3c34-4398-aef0-2228b169eb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?page=2
+                
+                
+                ')]</value>
+      <webElementGuid>8022e5ac-1147-4057-a646-76dc99c47c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>5030b09c-9fdf-4cbd-b3c8-8a2fc5cb039d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?page=2
+                
+                
+                ' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>e41aa3b1-8541-44e9-ae06-efb154b62840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,30 +157,6 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/preceding::a[1]</value>
-      <webElementGuid>2f2b94dc-79d7-43f1-966d-6b9466160f39</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Taj Smith 2024'])[1]/preceding::a[2]</value>
-      <webElementGuid>0396328d-2306-4742-9f54-e1b1564b26eb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>fc1be2c4-fe75-439a-8ee0-6d4b26f2647a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '?page=2
@@ -118,14 +164,6 @@
                 
                 &amp;min_damage=120')]</value>
       <webElementGuid>f5c52f9f-d6b1-4672-bc31-416ec58d14e6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//span/a</value>
-      <webElementGuid>f033fcfe-975d-4c74-ad64-74d4b4814c4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the back to teams button</description>
+   <name>BackToTeamsButtonTest</name>
+   <tag>Poke</tag>
+   <comment></comment>
+   <testCaseGuid>d0cca4f3-3dbd-459b-b874-619d12417f3c</testCaseGuid>
+</TestCaseEntity>

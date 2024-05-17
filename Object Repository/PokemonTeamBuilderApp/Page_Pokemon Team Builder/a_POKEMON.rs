@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a31ff0ff-9b44-4f76-a602-be57c26d55c0</webElementGuid>
+      <webElementGuid>e36e4d5d-35f4-45d0-bc6f-d0a343e486fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/pokemon/</value>
-      <webElementGuid>e63f7bcd-1a03-4309-9106-05bca6aef07f</webElementGuid>
+      <webElementGuid>b3174b24-5711-4e93-b920-bb1790806f9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>POKEMON</value>
-      <webElementGuid>77495d15-84cf-463e-a002-7843bd0b0a46</webElementGuid>
+      <webElementGuid>217015e8-52cf-4a8b-a536-990d0cb32351</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-container&quot;)/nav[@class=&quot;topnav&quot;]/a[2]</value>
-      <webElementGuid>fac4851b-e9e7-449b-b342-b38e398fd2fe</webElementGuid>
+      <webElementGuid>3f035e05-01bf-4352-919c-8729ed5358e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-container']/nav/a[2]</value>
-      <webElementGuid>d16608de-9508-47fc-88a1-fdd91bb65bd4</webElementGuid>
+      <webElementGuid>11cbf269-3a80-4f68-a945-c1a0c1718061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'POKEMON')]</value>
-      <webElementGuid>ba8a0d48-acdf-4361-88e3-347fdb76a1da</webElementGuid>
+      <webElementGuid>54646489-3b23-428d-892a-20c388ac3f32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::a[1]</value>
-      <webElementGuid>1719bfbb-aca1-46a3-b36a-726ed7af6db3</webElementGuid>
+      <webElementGuid>e41c9025-49ff-4aa2-a37c-bdc6d11d0845</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MOVES'])[1]/preceding::a[1]</value>
-      <webElementGuid>ad5ffc95-0338-4a85-97ee-2a34c15ef645</webElementGuid>
+      <webElementGuid>085e5bc0-2119-418c-8d13-eeb366f38faf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TEAMS'])[1]/preceding::a[2]</value>
-      <webElementGuid>aa52d199-bf7a-488e-afb9-8fc8f571307a</webElementGuid>
+      <webElementGuid>ca72e5b0-1378-4866-9d05-2da7ad259291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='POKEMON']/parent::*</value>
-      <webElementGuid>326b9fde-257a-4ae9-a971-53361e76a725</webElementGuid>
+      <webElementGuid>5d88081d-21bf-4d45-8718-9b02f0b0a32d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/pokemon/')]</value>
-      <webElementGuid>0be8f661-0c2b-467b-9554-31932df2f422</webElementGuid>
+      <webElementGuid>62f66f0b-d20f-435f-862d-3a7d1b2ed849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>41f0ba1e-eec2-44b7-94e5-e03a49abd947</webElementGuid>
+      <webElementGuid>1f67f3e2-92fb-4a4f-b688-7be8ae2d78a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/pokemon/' and (text() = 'POKEMON' or . = 'POKEMON')]</value>
-      <webElementGuid>47a7dbd2-5225-4630-a998-9a82dfc32baa</webElementGuid>
+      <webElementGuid>4f4dd98c-b3ea-4123-aa7c-691a0d5c5df4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
